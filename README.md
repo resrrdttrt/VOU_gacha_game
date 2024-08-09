@@ -10,14 +10,6 @@ A Gacha simulator web application built by Node.js, Express, MongoDB and React.j
 
 ---
 
-## 📋 Table of Contents
-
-* [About](#about)
-* [Technologies](#technologies)
-* [Setup](#setup)
-* [Features](#features)
-* [Project Status](#project-status)
-* [Acknowledgements](#acknowledgements)
 
 ---
 
@@ -34,19 +26,6 @@ A Gacha simulator web application built by Node.js, Express, MongoDB and React.j
 - We would like to do the challenge as we see the developing of gacha game arround the world. In the future, we may making a game related to this mechanic, or this website can also help people in their decision making, risk managing before spending the real money into gacha games.
 ### 👨‍👦‍👦 Us
 
-#### Team Name: 
- - ** Go find treasure of NTL **
-
-#### Team Leader: 
-- **Do Minh Quan** - ITITIU20282
-
-| No  | Name                          | ID          | Main Contributes                                                                       | Contacts                                                                                                                                |
-|-----|-------------------------------|-------------|----------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------|
-| 1   | **Do Minh Quan** 👨‍💻 | ITITIU20282 | Backend Developer, Github repository host, Debug & fixing code, Tasks distributor.        | [Github](https://github.com/Litaaya) [Facebook](https://www.facebook.com/profile.php?id=100064877317275) [Email](minhquans2810@gmail.com)  |
-| 2   | **Le Duy Hieu** 👨‍🎨    | ITITIU21200 | Web art, Idea contributor, Quality Checker.                         | [Github](https://github.com/Kou3153) [Facebook](https://www.facebook.com/xicez3153) [Email](Ititiu21200@student.hcmiu.edu.vn)    |
-| 3   | **Vo Trung Duong**✍           | ITITIU20193 | Frontend Developer, Thoughts & Ideas Gatherer, System Design. | [Github](https://github.com/Callmeserpent) [Facebook](https://www.facebook.com/callmeserpent) [Email](mailto:voduong.hcmiu@gmail.com) |
-
----
 
 ## Technologies
 
@@ -86,14 +65,9 @@ node server.js
 
 ---
 
-## Project Status
-- Our project will update Login function in the future. Apparently user can select banner, pull gacha and see inventory.
 
 ### Challenging
 - We see the challenge in making a web application as the backend requires various and deep knowlegde to master, we have to research more on Node Express, MongoDB, as it is popular in industry nowaday. Overall, we manage to overcome it and improve our skill for future work.
 
 ---
 
-## Acknowledgements
-- Thank you DragonMarquise for motivating us to do the project.
-- Thank you Prof. Nguyen Van Sinh and Mr.Minh for guiding us in Web Application Course.
